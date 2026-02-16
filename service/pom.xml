@@ -20,7 +20,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <!-- 2. Добавляем зависимость от модуля db -->
     <dependencies>
         <dependency>
             <groupId>ru.netology</groupId>
