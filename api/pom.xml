@@ -14,7 +14,6 @@
     <packaging>jar</packaging>
 
     <dependencies>
-        <!-- Зависимость от модуля service -->
         <dependency>
             <groupId>ru.netology</groupId>
             <artifactId>service</artifactId>
